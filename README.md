@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Yago Nunes! | Especialista em Cibersegurança & Desenvolvedor
 
-<!--
-**Kopenss/Kopenss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ **Protegendo o Futuro Digital**
+* Apaixonado por **segurança da informação**, com foco em defesa cibernética e desenvolvimento seguro.
+* Buscando ativamente desafios para construir e proteger sistemas robustos contra ameaças emergentes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Sobre Mim
+
+Sou estudante de Engenharia de Software e a tecnologia é a minha ferramenta para **garantir a segurança no mundo digital**. Minha jornada é impulsionada pela busca contínua por conhecimento em segurança, aplicando-o na prática para proteger dados e infraestruturas.
+
+**Experiência em Cibersegurança:**
+* **Análise de Vulnerabilidades:** Proficiência em identificar e avaliar pontos fracos em sistemas e aplicações.
+* **Desenvolvimento Seguro (SecDevOps):** Foco na integração de práticas de segurança desde o início do ciclo de desenvolvimento, utilizando minhas habilidades em Java e Spring Framework para codificar soluções robustas e resilientes.
+* **Resposta a Incidentes:** Compreensão dos princípios de detecção e resposta eficaz a incidentes de segurança.
+* **Ferramentas de Segurança:** Experiência prática com diversas ferramentas de segurança (e.g., Nmap, Wireshark, Metasploit, Burp Suite, Kali Linux).
+
+**Habilidades Técnicas:**
+* **Linguagens:** Python
+* **Frameworks/Tecnologias:** Spring Boot, Spring Security, REST APIs, JUnit, Mockito.
+* **Bancos de Dados:** PostgreSQL (com foco em integridade e segurança de dados).
+* **Cloud:** Conhecimento em AWS (EC2, S3, RDS) para deploy seguro e gerenciamento de infraestruturas na nuvem.
+* **Metodologias:** Agile, SDLC (Ciclo de Vida de Desenvolvimento Seguro).
+
+**Visão e Contribuição:**
+* Compromisso em aplicar meu conhecimento em Engenharia de Software para desenvolver soluções que não apenas funcionem, mas que sejam inerentemente seguras.
+* Contribuindo para a comunidade open source e participando de CTFs para aprimorar minhas habilidades práticas.
+
+---
+
+### 🚀 O que estou buscando
+
+Estou em busca de oportunidades desafiadoras em cibersegurança, seja em Desenvolvimento Seguro, Análise de Vulnerabilidades, ou Engenharia de Segurança, onde eu possa aplicar e expandir minhas habilidades para fazer a diferença na proteção de sistemas e dados.
+
+### 🌐 Conecte-se comigo:
+
+[Seu LinkedIn] | [Seu Twitter/Blog (se tiver)]
