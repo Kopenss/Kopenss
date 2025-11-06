@@ -34,4 +34,4 @@ Estou em busca de oportunidades desafiadoras em cibersegurança, seja em Desenvo
 
 ### 🌐 Conecte-se comigo:
 
-[Seu LinkedIn] | [Seu Twitter/Blog (se tiver)]
+## linkedin: https://www.linkedin.com/in/yago-nunes-67b524226/ 
