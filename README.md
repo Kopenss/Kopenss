@@ -8,7 +8,7 @@
 
 ## 💻 Sobre Mim
 
-Sou estudante de Engenharia de Software e a tecnologia é a minha ferramenta para **garantir a segurança no mundo digital**. Minha jornada é impulsionada pela busca contínua por conhecimento em segurança, aplicando-o na prática para proteger dados e infraestruturas.
+Sou estudante de Segurança cibernética e a tecnologia é a minha ferramenta para **garantir a segurança no mundo digital**. Minha jornada é impulsionada pela busca contínua por conhecimento em segurança, aplicando-o na prática para proteger dados e infraestruturas. Alem disso me dedico a aprender mais sobre programação, afim de expandir meus conhecimentos.
 
 **Experiência em Cibersegurança:**
 * **Análise de Vulnerabilidades:** Proficiência em identificar e avaliar pontos fracos em sistemas e aplicações.
