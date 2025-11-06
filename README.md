@@ -30,7 +30,7 @@ Sou estudante de Segurança cibernética e a tecnologia é a minha ferramenta pa
 
 ### 🚀 O que estou buscando
 
-Estou em busca de oportunidades desafiadoras em cibersegurança, seja em Desenvolvimento Seguro, Análise de Vulnerabilidades, ou Engenharia de Segurança, onde eu possa aplicar e expandir minhas habilidades para fazer a diferença na proteção de sistemas e dados.
+Estou em busca de oportunidades desafiadoras em cibersegurança, seja em Desenvolvimento Seguro, Análise de Vulnerabilidades, onde eu possa aplicar e expandir minhas habilidades para fazer a diferença na proteção de sistemas e dados.
 
 ### 🌐 Conecte-se comigo:
 
