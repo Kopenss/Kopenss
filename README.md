@@ -19,7 +19,6 @@ Sou estudante de Engenharia de Software e a tecnologia é a minha ferramenta par
 **Habilidades Técnicas:**
 * **Linguagens:** Python
 * **Frameworks/Tecnologias:** Spring Boot, Spring Security, REST APIs, JUnit, Mockito.
-* **Bancos de Dados:** PostgreSQL (com foco em integridade e segurança de dados).
 * **Cloud:** Conhecimento em AWS (EC2, S3, RDS) para deploy seguro e gerenciamento de infraestruturas na nuvem.
 * **Metodologias:** Agile, SDLC (Ciclo de Vida de Desenvolvimento Seguro).
 
