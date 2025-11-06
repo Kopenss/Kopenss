@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Yago Nunes! | Especialista em Cibersegurança & Desenvolvedor
+# 👋 Olá! Me chamo Yago Nunes! | Especialista em Cibersegurança & Desenvolvedor
 
 🛡️ **Protegendo o Futuro Digital**
 * Apaixonado por **segurança da informação**, com foco em defesa cibernética e desenvolvimento seguro.
